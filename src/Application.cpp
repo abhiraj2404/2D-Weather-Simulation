@@ -361,3 +361,5 @@ void Application::keyCallback(GLFWwindow* window, int key, int scancode, int act
     // Handle key presses here if needed
     // This is separate from processInput for specific key events
 }
+
+// Integration note: Weather/Celestial wired
