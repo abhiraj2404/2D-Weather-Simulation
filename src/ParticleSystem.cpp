@@ -134,3 +134,5 @@ void ParticleSystem::cleanupParticles() {
         particles.end()
     );
 }
+
+// Tweak note: particle params
