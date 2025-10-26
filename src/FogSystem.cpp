@@ -82,3 +82,5 @@ float FogSystem::calculateTargetDensity(const WeatherSystem& weather) const {
     // Clamp to valid range
     return std::min(baseDensity, 1.0f);
 }
+
+// Tweak note: fog params
